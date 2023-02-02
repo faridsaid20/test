@@ -1,0 +1,1 @@
+export { FormatedDate } from "./FormatedDate";

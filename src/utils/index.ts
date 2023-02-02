@@ -1,0 +1,1 @@
+export { areRectsTouching } from "./areRectsTouching";
